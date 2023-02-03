@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+    <!-- Diving Gear-->
+    <entityname.fds>Unknown Diving Suit</entityname.fds>
+    <entitydescription.fds>A strange diving suit built using alien relics, its emmits strange noise...</entitydescription.fds>
+    <entityname.hcds>Hand-crafted Diving suit</entityname.hcds>
+    <entitydescription.hcds>Possibly crafted by some pirates. Strangely covered in blood...</entitydescription.hcds>
+    <entityname.legacysuit>Old Diving Suit</entityname.legacysuit>
+    <entitydescription.legacysuit>An old version of a diving suit. Surprisingly, it is still able to withstand the cruel Europan pressure.</entitydescription.legacysuit>
+    <!-- Affliction -->
+    <entityname.refinedblood>Refined Alien Blood</entityname.refinedblood>
+    <afflictionname.regen>Regeneration</afflictionname.regen>
+    <afflictionname.noisesupressor>stupid shit doesnt workey</afflictionname.noisesupressor>
+    <afflictionname.noise>Alien Noise</afflictionname.noise>
+    <afflictiondescription.noise>The noise causes strange stuff in your head.</afflictiondescription.noise>
+    <afflictionname.bloodthirst>Bloodthirst</afflictionname.bloodthirst>
+    <afflictiondescription.bloodthirst>You have growing urge to drink blood.</afflictiondescription.bloodthirst>
+</infotexts>

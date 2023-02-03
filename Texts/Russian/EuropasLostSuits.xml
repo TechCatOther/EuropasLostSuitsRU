@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+    <!-- Diving Gear-->
+    <entityname.fds>Неизвестный водолазный скафандр</entityname.fds>
+    <entitydescription.fds>Странный скафандр, построенный с использованием инопланетных реликвий. Он излучает странный шум...</entitydescription.fds>
+    <entityname.hcds>Водолазный скафандр ручной работы</entityname.hcds>
+    <entitydescription.hcds>Возможно собран каким-то пиратами. Странным образом покрыт кровью...</entitydescription.hcds>
+    <entityname.legacysuit>Старый водолазный скафандр</entityname.legacysuit>
+    <entitydescription.legacysuit>Старая версия водолазного костюма. Удивительно, но она все еще способна противостоять жестокому давлению Европы.</entitydescription.legacysuit>
+    <!-- Affliction -->
+    <entityname.refinedblood>Очищенная инопланетная кровь</entityname.refinedblood>
+    <afflictionname.regen>Восстановление</afflictionname.regen>
+    <!-- <afflictionname.noisesupressor>stupid shit doesnt workey</afflictionname.noisesupressor> -->
+    <afflictionname.noise>Чужеродный шум</afflictionname.noise>
+    <afflictiondescription.noise>Шум вызывает странные образы в вашей голове.</afflictiondescription.noise>
+    <afflictionname.bloodthirst>Кровожадность</afflictionname.bloodthirst>
+    <afflictiondescription.bloodthirst>У вас растет желание пить кровь.</afflictiondescription.bloodthirst>
+</infotexts>
